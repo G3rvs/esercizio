@@ -1,0 +1,8 @@
+body{
+    background-image: url(sfondo.png);
+}
+.stato1{
+    size: 50px;
+    align-self: center;
+    color: yellow;
+}
